@@ -1,5 +1,6 @@
 
 # 📊EECS 498-007 / 598-005: Deep Learning for Computer Vision
+
 [course homepage](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/)
 
 ## 📋Course Description
