@@ -42,3 +42,16 @@ In this task you will get a taste of so-called *neural networks* by implementing
 
 My implementations can be found here:
 [linear_classifier.py](./A2/linear_classifier.py), [two_layer_net](./A2/two_layer_net.py)
+
+## Assignment 3
+
+### Fully-Connected Neural Network
+
+In this task you will implement modular API like `forwad` and `backward`. These module will help you to build deeper and fancier neural nets using basic blocks. Upon implementing your deep neural net, you can construct it, tune it and try different FC neural nets on dataset. You will also implement most commonly used optimizers like sgd with momentum, adam etc.
+
+### Convolutional Neural Network
+
+In this task you will implement the famous CNN! You will construct a deep CNN step by step from conv layer, pooling layer, kaiming initialization, batch normalization to a working CNN. Very exciting to tune your neural net!
+
+My implementation can be found here:
+[fully_connected_networks.py](./A3/fully_connected_networks.py), [convolutional_networks.py](./A3/convolutional_networks.py)
