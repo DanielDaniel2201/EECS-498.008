@@ -41,7 +41,7 @@ In this task you will implement a linear classifier to be used on CIFAR-10 datas
 In this task you will get a taste of so-called *neural networks* by implementing it yourself! You will get a feeling of how those fancy neurons in neural net diagram are represented by matrix operations during your implementation! You can also tune hyperparameters like learning rate or layer size to find your best model. This is a step further from linear classifier.
 
 My implementations can be found here:
-[linear_classifier.py](./A2/linear_classifier.py), [two_layer_net](./A2/two_layer_net.py)
+[linear_classifier.py](./A2/linear_classifier.py), [two_layer_net.py](./A2/two_layer_net.py)
 
 ## Assignment 3
 
