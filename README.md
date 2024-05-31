@@ -18,7 +18,7 @@ The course resources can be found on the course website including
 
 No autograder is provided though, but the correctness of completed assignment can be observed directly (like neural nets' accuracy etc.), charm of computer science...
 
-## ☺️Assignment 1
+## 😏Assignment 1
 
 ### Pytorch 101
 
